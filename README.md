@@ -4,7 +4,7 @@
 
 @vimossi
 
-# Habilidades
+# Objetivos
 
 Nesse projeto, você será capaz de:
 
